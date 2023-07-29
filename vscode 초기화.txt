@@ -1,0 +1,6 @@
+vscode 자동 업데이트 끄기
+vscode 설정 저장
+revo 다운로드
+vscode 삭제
+vscode 이전버전 설치
+vscode 자동업데이트 확인
